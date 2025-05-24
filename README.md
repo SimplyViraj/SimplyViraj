@@ -1,4 +1,4 @@
-Hello There, Im Viraj!
+# Hello There, Im Viraj!
 
 I write code that *mostly* works, and occasionally even looks good doing it.I build web applications that work, look good, and don't fall apart under pressure ,kind of like me.  
 Frontend to backend, I don’t stop until things run right. Call it determination. Or stubbornness. Either way, it gets results. Im also very much into machine learning and artificial
